@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "nosignhitbox",
+  "version": "1.0",
+  "name": "NoSignHitBox",
+  "description": "Client-side mod that reduces size of sign hitbox",
+  "authors": ["antoniusz"],
+  "environment": "client",
+  "icon": "assets/nosignhitbox/icon.png",
+  "entrypoints": {
+    "client": [
+      "pl.nosignhitbox.NoSignHitBox"
+    ]
+  },
+  "mixins": [
+    "nosignhitbox.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.21"
+  }
+}
+

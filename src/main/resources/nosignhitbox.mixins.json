@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "pl.nosignhitbox.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "IgnoreSignRaycastMixin",
+    "NoSignOutlineMixin"
+  ]
+}
