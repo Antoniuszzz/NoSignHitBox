@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "pl/nosignhitbox/mixin/IgnoreSignRaycastMixin": {
+      "getOutlineShape": "Lnet/minecraft/class_2478;method_9530(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;Lnet/minecraft/class_3726;)Lnet/minecraft/class_265;"
+    },
+    "pl/nosignhitbox/mixin/NoSignOutlineMixin": {
+      "drawBlockOutline": "Lnet/minecraft/class_761;method_22712(Lnet/minecraft/class_4587;Lnet/minecraft/class_4588;Lnet/minecraft/class_1297;DDDLnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "pl/nosignhitbox/mixin/IgnoreSignRaycastMixin": {
+        "getOutlineShape": "Lnet/minecraft/class_2478;method_9530(Lnet/minecraft/class_2680;Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;Lnet/minecraft/class_3726;)Lnet/minecraft/class_265;"
+      },
+      "pl/nosignhitbox/mixin/NoSignOutlineMixin": {
+        "drawBlockOutline": "Lnet/minecraft/class_761;method_22712(Lnet/minecraft/class_4587;Lnet/minecraft/class_4588;Lnet/minecraft/class_1297;DDDLnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+      }
+    }
+  }
+}
